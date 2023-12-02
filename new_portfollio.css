@@ -155,7 +155,7 @@ nav a:hover{
     display: block;
 }
 .section1{
-    height: 65vh;
+    height: 100vh;
     width: 100%;
     background-color: black;
     display: flex;
@@ -163,8 +163,9 @@ nav a:hover{
     
 }
 .section1 .class1{
-    width: 58%;
+    width: 70%;
     margin-left: 5vh;
+    padding-top: 30vh;
     justify-content: block;
 
 }
@@ -350,6 +351,8 @@ nav a:hover{
 
 .section1 .class2{
     width: 30%;
+    background-color: #ffffff;
+    padding-top: 30vh;
 }
 
 .section1 .class2 img{
@@ -393,7 +396,8 @@ nav a:hover{
 }
 .certificate .parta{
     height: 10%;
-    line-height: 60px;
+    line-height: 30px;
+    margin-top: -30px;
     width: 20%;
     display: flex;
     justify-content: center;
@@ -405,7 +409,7 @@ nav a:hover{
 }
 
 .certificate .partb{
-    height: 80%;
+    height: 90%;
     width: 100%;
     background-color: #02030370;
     border-radius: 10px;
